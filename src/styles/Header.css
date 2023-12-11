@@ -1,0 +1,109 @@
+.header {
+    display: flex;
+    background-color: #010148;
+    color: antiquewhite;
+
+    top: 0px;
+    padding: 5px 0px;
+    border-bottom: 2px solid #daa520;
+    z-index: 1000;
+    width: 100%;
+    font-family: system-ui !important;
+    height: 44px;
+    position: fixed;
+}
+
+
+.amonut {
+    background-color: #3f3c3c;
+    font-family: system-ui !important;
+    padding: 1px 4px;
+}
+
+.plus {
+    background-color: #3f3c3c;
+    padding: 5px;
+    margin-left: 4px;
+    font-family: system-ui !important;
+}
+
+.left_part_of_header {
+    padding: 5px;
+    width: 48%;
+    text-align: left;
+    font-family: system-ui !important;
+}
+
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+
+    font-family: system-ui !important;
+    min-width: 1px !important;
+    padding: 0px 3px !important;
+    border-radius: 4px !important;
+    -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    color: #bec1c4 !important;
+}
+
+.bell {
+    padding: 6px 4px;
+    font-family: system-ui !important;
+}
+
+.Right_part_of_header {
+    display: flex;
+    justify-content: right;
+    font-family: system-ui !important;
+    width: 50%;
+}
+
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
+    font-family: system-ui !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.096) !important;
+}
+
+.game {
+    font-size: 12px !important;
+    font-weight: 400;
+}
+
+.number {
+    font-size: 11px;
+    margin-bottom: 0px !important;
+    font-family: system-ui !important;
+}
+
+.css-10hburv-MuiTypography-root {
+    margin: 0;
+    /* font-family: "Roboto", "Helvetica", "Arial", sans-serif; */
+    font-weight: 300;
+    font-family: system-ui !important;
+    font-size: 13px !important;
+    color: black !important;
+    padding: 5px 0px !important;
+    line-height: 1 !important;
+    letter-spacing: 0 !important;
+    display: block;
+}
+
+.css-tlelie-MuiListItemText-root {
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-width: 0;
+    font-family: system-ui !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.css-cveggr-MuiListItemIcon-root {
+    color: rgb(51, 50, 50);
+    min-width: 30px !important;
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+    width: 1em !important;
+    height: 1em !important;
+    font-size: 19px !important;
+    font-family: system-ui !important;
+}

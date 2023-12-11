@@ -1,0 +1,31 @@
+.upload_pan_card_div {
+    background-color: rgb(1, 1, 29);
+    height: 600px;
+}
+
+.upload_form_input {
+    padding-top: 70px;
+    margin: 0px 5%;
+    width: 90%;
+}
+
+#input_id {
+    border-radius: 6px;
+    padding: 5px 10px;
+    width: 100%;
+}
+
+.form_btn_pvc {
+    text-align: center;
+    margin-top: 5px;
+    font-family: system-ui !important;
+}
+
+#laber_kvc {
+    font-size: 14px;
+    text-align: left;
+    padding: 4px 0px;
+    font-family: system-ui !important;
+    color: rgb(190, 190, 190);
+    font-weight: 400;
+}

@@ -1,0 +1,28 @@
+.my_tds {
+    height: 500px;
+    background-color: rgb(3, 3, 49);
+    width: 100%;
+    justify-content: center;
+    font-family: system-ui !important;
+}
+
+.center_part_of_tds {
+    margin: auto;
+    width: 80%;
+    position: relative;
+    text-align: center;
+    top: 180px;
+    /* padding-top: 80px; */
+    /* margin-top: 90px; */
+    /* background-color: yellowgreen; */
+}
+
+.center_part_of_earn {
+    color: rgb(133, 133, 133);
+}
+
+.head_of_tds {
+    font-size: 24px;
+    font-family: system-ui !important;
+    color: rgb(202, 201, 201);
+}

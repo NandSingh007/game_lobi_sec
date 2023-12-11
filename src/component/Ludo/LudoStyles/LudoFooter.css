@@ -1,0 +1,36 @@
+.LudoPool_footer {
+    display: flex;
+    width: 100%;
+    background-color: #010148;
+    justify-content: center;
+    /* color: #f5cfad; */
+    border-top: 2px solid #daa520;
+    bottom: 0px;
+    padding: 6px 0px;
+    width: 100vw;
+    position: fixed;
+}
+
+.Ludopool_first {
+    width: 20%;
+    text-align: center;
+}
+
+.Ludopool_footer_icon {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
+}
+
+.Ludopool_footer_text {
+    font-size: 11px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
+}
+a{
+    text-decoration: none !important;
+    color: #f5cfad !important;
+}

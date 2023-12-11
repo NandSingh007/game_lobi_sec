@@ -1,0 +1,121 @@
+
+.bodyyyyyyLudo {
+    position: relative;
+    top: 68px;
+    height: 820px;
+    background-color: #020218;
+}
+
+
+.Ludo_refer_earn_header {
+    display: flex;
+    position: fixed;
+    margin-top: 40px;
+    z-index: 1000;
+    width: 100%;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #212529;
+}
+
+.Ludo_right_my_earning,
+.Ludo_left_refer_frineds{
+    color: #273856;
+    /* background-color: orange; Default background color */
+}
+
+.Ludo_right_my_earning.active,
+.Ludo_left_refer_frineds.active {
+    border-bottom: 2px solid #daa520;
+    color: #f5deb3;
+    /* background-color: white; Update to the desired active background color */
+}
+
+.Ludo_pooler_larger_conatiner {
+    position: relative;
+    top: 110px;
+    /* bottom: 160px; */
+}
+
+.Ludo_pool_Main_din {
+    background-color: white;
+    width: 94%;
+    /* display: flex; */
+    margin: 2% 3%;
+    /* justify-content: center; */
+    border-radius: 10px;
+    padding: 2px 5px;
+}
+.Ludo_pool_Price_Box {
+    display: flex;
+    width: 100%;
+}
+
+.left_price_and_icon_Ludo {
+    width: 46%;
+}
+
+
+
+.battle_Ludo {
+    font-size: 11px;
+    color: rgb(34, 76, 131);
+    text-transform: uppercase;
+}
+
+.price_battle_Ludo {
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+}
+
+.small_text_of_battle_Ludo {
+    font-size: 12px;
+    color: rgb(41, 41, 41);
+    text-transform: capitalize;
+}
+
+
+.battle_Ludo,
+.price_battle_Ludo,
+.small_text_of_battle_Ludo {
+    margin-bottom: 0px !important;
+
+}
+
+.right_price_btn_Ludo {
+    width: 54%;
+    text-align: right;
+    margin-top: 15px;
+}
+
+.twoplayer_Ludo {
+    padding: 3px 6px;
+    /* line-height: 55px; */
+    border-radius: 6px;
+    border: 1px solid rgb(109, 107, 107);
+}
+
+.player_game_price_Ludo {
+    padding: 3px 6px;
+    margin-left: 5px;
+    border-radius: 6px;
+    border: 1px solid rgb(109, 107, 107);
+}
+
+
+
+.Ludo_left_refer_frineds {
+    width: 50%;
+    padding: 8px 0px;
+    color: #f5cf82;
+    /* background-color: aqua; */
+}
+
+.Ludo_right_my_earning {
+    color: #f5cf82;
+    padding: 8px 0px;
+    /* background-color: yellowgreen; */
+    width: 50%;
+}
